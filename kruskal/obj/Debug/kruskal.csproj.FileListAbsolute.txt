@@ -1,0 +1,9 @@
+D:\Desktop\kruskal\kruskal\bin\Debug\kruskal.exe.config
+D:\Desktop\kruskal\kruskal\bin\Debug\kruskal.exe
+D:\Desktop\kruskal\kruskal\bin\Debug\kruskal.pdb
+D:\Desktop\kruskal\kruskal\obj\Debug\kruskal.csprojResolveAssemblyReference.cache
+D:\Desktop\kruskal\kruskal\obj\Debug\kruskal.exe
+D:\Desktop\kruskal\kruskal\obj\Debug\kruskal.pdb
+D:\Desktop\task Algoriyhm\kruskal\kruskal\bin\Debug\kruskal.exe.config
+D:\Desktop\task Algoriyhm\kruskal\kruskal\obj\Debug\kruskal.exe
+D:\Desktop\task Algoriyhm\kruskal\kruskal\obj\Debug\kruskal.pdb
